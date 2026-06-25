@@ -1,6 +1,4 @@
-# FABEL_CONTEXT - Read This First
-
-Hello, AI assistant. This file explains how to work in this repository safely. Read it before touching anything.
+This file explains how to work in this repository safely. Read it before touching anything.
 
 ## What This Repo Is
 
