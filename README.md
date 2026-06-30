@@ -14,6 +14,19 @@ This is a small Markdown-only vault/repo designed to be readable in Obsidian, Gi
 | [NEXT_STEPS.md](NEXT_STEPS.md) | Setup and workflow checklist |
 | [PROJECT_LOG.md](PROJECT_LOG.md) | Dated log of meaningful changes |
 
+## Open On Your Mac (Obsidian)
+
+This folder is a ready-to-use Obsidian vault (it includes an `.obsidian/` config folder), so it opens directly on your Mac.
+
+1. Get the files onto your Mac: in GitHub Desktop or Terminal, clone or pull this repo to a folder you can find (for example `~/Documents/Obsidian-Projects-Dashboard-`).
+2. Open Obsidian.
+3. Click **Open another vault** (the vault switcher in the bottom-left), then **Open folder as vault**.
+4. Choose this repo's folder. Obsidian recognizes the existing `.obsidian/` config and opens straight to [AI_PROJECTS_DASHBOARD.md](AI_PROJECTS_DASHBOARD.md).
+
+After the first open, this vault appears in Obsidian's vault list, so you can reopen it with one click.
+
+> Tip: the Dataview code blocks in the dashboard only render after you install the community **Dataview** plugin (Settings → Community plugins → Browse → Dataview). Until then they show as plain code, which is fine.
+
 ## Safety
 
 - Keep this repo free of private, medical, financial, password, account, or personal data.

@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# Obsidian ephemeral / machine-specific files
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
