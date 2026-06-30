@@ -4,6 +4,13 @@ Newest entries at the top. Use one short dated entry per meaningful change.
 
 ---
 
+## 2026-06-30
+
+- Added [OBSIDIAN_SETUP.md](OBSIDIAN_SETUP.md) with Mac-specific steps to clone this repo and open it as a vault in the Obsidian app.
+- Linked the new setup guide from README.md and checked it off in NEXT_STEPS.md.
+
+---
+
 ## 2026-06-13
 
 - Recreated the AI Projects dashboard packet in the correct repository.

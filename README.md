@@ -13,6 +13,7 @@ This is a small Markdown-only vault/repo designed to be readable in Obsidian, Gi
 | [FABEL_CONTEXT.md](FABEL_CONTEXT.md) | First file for AI assistants to read |
 | [NEXT_STEPS.md](NEXT_STEPS.md) | Setup and workflow checklist |
 | [PROJECT_LOG.md](PROJECT_LOG.md) | Dated log of meaningful changes |
+| [OBSIDIAN_SETUP.md](OBSIDIAN_SETUP.md) | How to open this repo as a vault in the Obsidian app |
 
 ## Safety
 
