@@ -4,6 +4,16 @@ Newest entries at the top. Use one short dated entry per meaningful change.
 
 ---
 
+## 2026-07-02
+
+- Stopped tracking `.obsidian/workspace.json` and gitignored it: Obsidian rewrites that file constantly, so tracking it would keep the local repo permanently dirty and cause pull conflicts.
+- Added [PROJECT_OBSIDIAN_DASHBOARD.md](PROJECT_OBSIDIAN_DASHBOARD.md) as the first real project note so the dashboard's Dataview queries have data to show.
+- Excluded the template file from the dashboard's Dataview queries and checked off completed items in NEXT_STEPS.md and the dashboard backlog.
+- Added a "Keep It In Sync" section to the README and corrected the first-open instructions.
+- Closed PR #1 as redundant with the merged PR #2.
+
+---
+
 ## 2026-06-30
 
 - Added an `.obsidian/` vault config so the folder opens directly as an Obsidian vault on Mac.
